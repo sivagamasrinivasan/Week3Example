@@ -18,7 +18,7 @@ public class Week3Example {
       System.out.println("learning github pull");    
          //fetch+merge
          //test
-         //checking
+      
     }
     
 }
